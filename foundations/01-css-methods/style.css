@@ -1,0 +1,9 @@
+/* Style for top */
+
+div {
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+}
